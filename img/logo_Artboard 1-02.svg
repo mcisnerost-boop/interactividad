@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1440 6217.33">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #f2d9c7;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18 {
+        fill: none;
+      }
+
+      .cls-3, .cls-5, .cls-6, .cls-7, .cls-8, .cls-10, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-18 {
+        stroke: #344a36;
+      }
+
+      .cls-19 {
+        letter-spacing: 0em;
+      }
+
+      .cls-20 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        stroke-width: 4px;
+      }
+
+      .cls-4, .cls-9, .cls-11, .cls-21, .cls-22 {
+        stroke: #f8f7f2;
+      }
+
+      .cls-23 {
+        letter-spacing: .14em;
+      }
+
+      .cls-23, .cls-24 {
+        font-size: 14px;
+      }
+
+      .cls-23, .cls-24, .cls-8, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-10, .cls-38, .cls-39, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-47, .cls-12, .cls-48, .cls-13, .cls-49, .cls-50, .cls-14, .cls-15, .cls-16, .cls-51, .cls-18, .cls-52, .cls-53, .cls-54, .cls-55, .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-23, .cls-24, .cls-26, .cls-27, .cls-31, .cls-33, .cls-34, .cls-56, .cls-48, .cls-49, .cls-51, .cls-55 {
+        fill: #f8f7f2;
+      }
+
+      .cls-23, .cls-24, .cls-27, .cls-29, .cls-30, .cls-34, .cls-39, .cls-40, .cls-57, .cls-58, .cls-59, .cls-60, .cls-61, .cls-62 {
+        font-family: AppleGothic, AppleGothic;
+      }
+
+      .cls-24 {
+        letter-spacing: .14em;
+      }
+
+      .cls-5 {
+        stroke-miterlimit: 4;
+        stroke-width: 1px;
+      }
+
+      .cls-6 {
+        stroke-miterlimit: 4;
+        stroke-width: 1px;
+      }
+
+      .cls-7 {
+        stroke-miterlimit: 4;
+        stroke-width: 1px;
+      }
+
+      .cls-63 {
+        fill: url(#radial-gradient-5);
+        opacity: .28;
+      }
+
+      .cls-64 {
+        fill: url(#radial-gradient-4);
+        opacity: .53;
+      }
+
+      .cls-65 {
+        fill: url(#radial-gradient-6);
+        opacity: .77;
+      }
+
+      .cls-8 {
+        stroke-dasharray: 4 7;
+      }
+
+      .cls-8, .cls-18 {
+        opacity: .45;
+      }
+
+      .cls-25 {
+        font-size: 27.32px;
+      }
+
+      .cls-25, .cls-31, .cls-33, .cls-44, .cls-47, .cls-52, .cls-53, .cls-54, .cls-55 {
+        font-family: AcuminPro-Regular, 'Acumin Pro';
+      }
+
+      .cls-25, .cls-47, .cls-52 {
+        fill: #596859;
+      }
+
+      .cls-26, .cls-32, .cls-36, .cls-41, .cls-42, .cls-46, .cls-49, .cls-51 {
+        font-weight: 300;
+      }
+
+      .cls-26, .cls-46 {
+        font-family: AcuminPro-LightItalic, 'Acumin Pro';
+        font-style: italic;
+      }
+
+      .cls-26, .cls-51 {
+        font-size: 74px;
+      }
+
+      .cls-27, .cls-28, .cls-29, .cls-30, .cls-34, .cls-43, .cls-48 {
+        font-size: 13px;
+      }
+
+      .cls-27, .cls-29, .cls-34, .cls-66, .cls-43, .cls-59 {
+        letter-spacing: .15em;
+      }
+
+      .cls-28, .cls-29, .cls-30, .cls-32, .cls-35, .cls-36, .cls-39, .cls-40, .cls-41, .cls-67, .cls-42, .cls-43, .cls-44, .cls-46, .cls-54 {
+        fill: #344a36;
+      }
+
+      .cls-30, .cls-60 {
+        letter-spacing: .15em;
+      }
+
+      .cls-68 {
+        fill: url(#radial-gradient-7);
+      }
+
+      .cls-69 {
+        fill: url(#radial-gradient-9);
+      }
+
+      .cls-70 {
+        fill: url(#radial-gradient-8);
+      }
+
+      .cls-71 {
+        fill: url(#radial-gradient-3);
+      }
+
+      .cls-72 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-31, .cls-44 {
+        font-size: 17px;
+      }
+
+      .cls-32, .cls-36, .cls-41, .cls-42, .cls-49, .cls-51 {
+        font-family: AcuminPro-Light, 'Acumin Pro';
+      }
+
+      .cls-32, .cls-46 {
+        font-size: 40px;
+      }
+
+      .cls-33 {
+        opacity: .82;
+      }
+
+      .cls-33, .cls-53 {
+        font-size: 20px;
+      }
+
+      .cls-34, .cls-48, .cls-55 {
+        opacity: .72;
+      }
+
+      .cls-73 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-35, .cls-39, .cls-40 {
+        font-size: 12px;
+      }
+
+      .cls-36 {
+        font-size: 48px;
+      }
+
+      .cls-37 {
+        opacity: .5;
+      }
+
+      .cls-37, .cls-74 {
+        fill: #e76d40;
+      }
+
+      .cls-75 {
+        letter-spacing: .15em;
+      }
+
+      .cls-75, .cls-66, .cls-76, .cls-77 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-10 {
+        opacity: .25;
+      }
+
+      .cls-76, .cls-40, .cls-62 {
+        letter-spacing: .17em;
+      }
+
+      .cls-39, .cls-61 {
+        letter-spacing: .17em;
+      }
+
+      .cls-78 {
+        fill: url(#radial-gradient-10);
+        opacity: .7;
+      }
+
+      .cls-41 {
+        font-size: 78px;
+      }
+
+      .cls-79 {
+        letter-spacing: 0em;
+      }
+
+      .cls-80, .cls-50 {
+        fill: #a8a4d5;
+      }
+
+      .cls-11 {
+        stroke-dasharray: 5 8;
+      }
+
+      .cls-81 {
+        letter-spacing: 0em;
+      }
+
+      .cls-82 {
+        letter-spacing: 0em;
+      }
+
+      .cls-83 {
+        letter-spacing: 0em;
+      }
+
+      .cls-84 {
+        letter-spacing: 0em;
+      }
+
+      .cls-85 {
+        letter-spacing: 0em;
+      }
+
+      .cls-86 {
+        letter-spacing: 0em;
+      }
+
+      .cls-42 {
+        font-size: 76px;
+      }
+
+      .cls-87 {
+        letter-spacing: 0em;
+      }
+
+      .cls-88 {
+        letter-spacing: 0em;
+      }
+
+      .cls-89, .cls-45, .cls-22 {
+        fill: #e9eb7a;
+      }
+
+      .cls-90 {
+        letter-spacing: 0em;
+      }
+
+      .cls-91 {
+        letter-spacing: 0em;
+      }
+
+      .cls-92 {
+        letter-spacing: 0em;
+      }
+
+      .cls-93 {
+        letter-spacing: 0em;
+      }
+
+      .cls-94 {
+        letter-spacing: 0em;
+      }
+
+      .cls-95 {
+        letter-spacing: 0em;
+      }
+
+      .cls-96 {
+        letter-spacing: 0em;
+      }
+
+      .cls-97 {
+        letter-spacing: 0em;
+      }
+
+      .cls-98 {
+        letter-spacing: 0em;
+      }
+
+      .cls-99 {
+        letter-spacing: 0em;
+      }
+
+      .cls-100 {
+        letter-spacing: 0em;
+      }
+
+      .cls-101 {
+        letter-spacing: 0em;
+      }
+
+      .cls-45 {
+        opacity: .64;
+      }
+
+      .cls-102 {
+        fill: #f7f7dd;
+      }
+
+      .cls-47, .cls-54 {
+        font-size: 18px;
+      }
+
+      .cls-103 {
+        letter-spacing: 0em;
+      }
+
+      .cls-104 {
+        letter-spacing: 0em;
+      }
+
+      .cls-21 {
+        fill: rgba(248, 247, 242, .08);
+      }
+
+      .cls-105 {
+        letter-spacing: 0em;
+      }
+
+      .cls-106 {
+        letter-spacing: 0em;
+      }
+
+      .cls-107 {
+        letter-spacing: 0em;
+      }
+
+      .cls-108 {
+        letter-spacing: 0em;
+      }
+
+      .cls-109 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        opacity: .16;
+      }
+
+      .cls-110 {
+        opacity: .78;
+      }
+
+      .cls-111, .cls-13 {
+        opacity: .42;
+      }
+
+      .cls-49 {
+        font-size: 80px;
+      }
+
+      .cls-50 {
+        opacity: .62;
+      }
+
+      .cls-14 {
+        opacity: .2;
+      }
+
+      .cls-15 {
+        opacity: .55;
+      }
+
+      .cls-16 {
+        opacity: .28;
+      }
+
+      .cls-112 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-113 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-114 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-115 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-116 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-117 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-118 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-119 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-120 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-121 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-122 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-123 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-17 {
+        stroke: #e76d40;
+        stroke-width: 3px;
+      }
+
+      .cls-124 {
+        letter-spacing: 0em;
+      }
+
+      .cls-125 {
+        letter-spacing: 0em;
+      }
+
+      .cls-126 {
+        letter-spacing: 0em;
+      }
+
+      .cls-127 {
+        letter-spacing: 0em;
+      }
+
+      .cls-128 {
+        letter-spacing: 0em;
+      }
+
+      .cls-129 {
+        letter-spacing: 0em;
+      }
+
+      .cls-130 {
+        letter-spacing: 0em;
+      }
+
+      .cls-131 {
+        letter-spacing: 0em;
+      }
+
+      .cls-132 {
+        letter-spacing: 0em;
+      }
+
+      .cls-133 {
+        letter-spacing: 0em;
+      }
+
+      .cls-134 {
+        letter-spacing: 0em;
+      }
+
+      .cls-135 {
+        letter-spacing: 0em;
+      }
+
+      .cls-136 {
+        letter-spacing: 0em;
+      }
+
+      .cls-137 {
+        letter-spacing: 0em;
+      }
+
+      .cls-138 {
+        letter-spacing: 0em;
+      }
+
+      .cls-139 {
+        letter-spacing: 0em;
+      }
+
+      .cls-140 {
+        letter-spacing: 0em;
+      }
+
+      .cls-141 {
+        letter-spacing: 0em;
+      }
+
+      .cls-142 {
+        letter-spacing: 0em;
+      }
+
+      .cls-143 {
+        letter-spacing: 0em;
+      }
+
+      .cls-144 {
+        letter-spacing: 0em;
+      }
+
+      .cls-145 {
+        letter-spacing: 0em;
+      }
+
+      .cls-146 {
+        letter-spacing: 0em;
+      }
+
+      .cls-147 {
+        letter-spacing: 0em;
+      }
+
+      .cls-148 {
+        letter-spacing: 0em;
+      }
+
+      .cls-18 {
+        stroke-miterlimit: 4;
+        stroke-width: 1px;
+      }
+
+      .cls-149 {
+        letter-spacing: 0em;
+      }
+
+      .cls-150 {
+        letter-spacing: 0em;
+      }
+
+      .cls-151 {
+        letter-spacing: 0em;
+      }
+
+      .cls-152 {
+        letter-spacing: 0em;
+      }
+
+      .cls-153 {
+        letter-spacing: 0em;
+      }
+
+      .cls-154 {
+        letter-spacing: 0em;
+      }
+
+      .cls-155 {
+        letter-spacing: 0em;
+      }
+
+      .cls-156 {
+        letter-spacing: 0em;
+      }
+
+      .cls-157 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-158 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-159 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-160 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-161 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-162 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-163 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-164 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-165 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-166 {
+        letter-spacing: 0em;
+      }
+
+      .cls-167 {
+        letter-spacing: 0em;
+      }
+
+      .cls-168 {
+        letter-spacing: 0em;
+      }
+
+      .cls-169 {
+        letter-spacing: 0em;
+      }
+
+      .cls-170 {
+        letter-spacing: 0em;
+      }
+
+      .cls-171 {
+        letter-spacing: 0em;
+      }
+
+      .cls-172 {
+        letter-spacing: 0em;
+      }
+
+      .cls-173 {
+        letter-spacing: 0em;
+      }
+
+      .cls-174 {
+        letter-spacing: 0em;
+      }
+
+      .cls-175 {
+        letter-spacing: 0em;
+      }
+
+      .cls-176 {
+        letter-spacing: 0em;
+      }
+
+      .cls-177 {
+        letter-spacing: 0em;
+      }
+
+      .cls-178 {
+        letter-spacing: 0em;
+      }
+
+      .cls-179 {
+        letter-spacing: 0em;
+      }
+
+      .cls-180 {
+        letter-spacing: 0em;
+      }
+
+      .cls-181 {
+        letter-spacing: 0em;
+      }
+
+      .cls-182 {
+        letter-spacing: 0em;
+      }
+
+      .cls-183 {
+        letter-spacing: 0em;
+      }
+
+      .cls-184 {
+        letter-spacing: 0em;
+      }
+
+      .cls-185 {
+        letter-spacing: 0em;
+      }
+
+      .cls-186 {
+        letter-spacing: 0em;
+      }
+
+      .cls-187 {
+        letter-spacing: 0em;
+      }
+
+      .cls-188 {
+        letter-spacing: 0em;
+      }
+
+      .cls-189 {
+        letter-spacing: 0em;
+      }
+
+      .cls-190 {
+        letter-spacing: 0em;
+      }
+
+      .cls-191 {
+        letter-spacing: 0em;
+      }
+
+      .cls-192 {
+        letter-spacing: 0em;
+      }
+
+      .cls-193 {
+        letter-spacing: 0em;
+      }
+
+      .cls-194 {
+        letter-spacing: 0em;
+      }
+
+      .cls-195 {
+        letter-spacing: 0em;
+      }
+
+      .cls-196 {
+        letter-spacing: 0em;
+      }
+
+      .cls-197 {
+        letter-spacing: 0em;
+      }
+
+      .cls-198 {
+        letter-spacing: 0em;
+      }
+
+      .cls-52, .cls-55 {
+        font-size: 19px;
+      }
+
+      .cls-58 {
+        letter-spacing: .15em;
+      }
+
+      .cls-53 {
+        fill: #526253;
+      }
+
+      .cls-199 {
+        letter-spacing: .03em;
+      }
+
+      .cls-200 {
+        letter-spacing: .03em;
+      }
+
+      .cls-201 {
+        letter-spacing: .01em;
+      }
+
+      .cls-202 {
+        letter-spacing: .01em;
+      }
+
+      .cls-203 {
+        letter-spacing: .03em;
+      }
+
+      .cls-204 {
+        letter-spacing: .03em;
+      }
+
+      .cls-205 {
+        letter-spacing: .03em;
+      }
+
+      .cls-206 {
+        letter-spacing: .03em;
+      }
+
+      .cls-207 {
+        letter-spacing: 0em;
+      }
+
+      .cls-208 {
+        letter-spacing: 0em;
+      }
+
+      .cls-209 {
+        letter-spacing: 0em;
+      }
+
+      .cls-210 {
+        letter-spacing: 0em;
+      }
+
+      .cls-211 {
+        letter-spacing: 0em;
+      }
+
+      .cls-212 {
+        letter-spacing: 0em;
+      }
+
+      .cls-213 {
+        letter-spacing: 0em;
+      }
+
+      .cls-214 {
+        letter-spacing: 0em;
+      }
+
+      .cls-215 {
+        letter-spacing: 0em;
+      }
+
+      .cls-216 {
+        letter-spacing: 0em;
+      }
+
+      .cls-217 {
+        letter-spacing: 0em;
+      }
+
+      .cls-218 {
+        letter-spacing: 0em;
+      }
+
+      .cls-219 {
+        letter-spacing: 0em;
+      }
+
+      .cls-220 {
+        letter-spacing: 0em;
+      }
+
+      .cls-221 {
+        letter-spacing: 0em;
+      }
+
+      .cls-222 {
+        letter-spacing: 0em;
+      }
+
+      .cls-223 {
+        letter-spacing: 0em;
+      }
+
+      .cls-224 {
+        letter-spacing: 0em;
+      }
+
+      .cls-225 {
+        letter-spacing: 0em;
+      }
+
+      .cls-226 {
+        letter-spacing: 0em;
+      }
+
+      .cls-227 {
+        letter-spacing: 0em;
+      }
+
+      .cls-228 {
+        letter-spacing: 0em;
+      }
+
+      .cls-229 {
+        letter-spacing: 0em;
+      }
+
+      .cls-230 {
+        letter-spacing: 0em;
+      }
+
+      .cls-231 {
+        letter-spacing: 0em;
+      }
+
+      .cls-232 {
+        letter-spacing: 0em;
+      }
+
+      .cls-233 {
+        letter-spacing: 0em;
+      }
+
+      .cls-234 {
+        letter-spacing: 0em;
+      }
+
+      .cls-235 {
+        letter-spacing: 0em;
+      }
+
+      .cls-236 {
+        letter-spacing: .01em;
+      }
+
+      .cls-237 {
+        letter-spacing: .01em;
+      }
+
+      .cls-238 {
+        letter-spacing: .01em;
+      }
+
+      .cls-239 {
+        letter-spacing: .01em;
+      }
+
+      .cls-240 {
+        letter-spacing: .01em;
+      }
+
+      .cls-241 {
+        letter-spacing: 0em;
+      }
+
+      .cls-242 {
+        letter-spacing: 0em;
+      }
+
+      .cls-243 {
+        letter-spacing: 0em;
+      }
+
+      .cls-244 {
+        letter-spacing: 0em;
+      }
+
+      .cls-245 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        opacity: .9;
+      }
+
+      .cls-246 {
+        letter-spacing: 0em;
+      }
+
+      .cls-247 {
+        letter-spacing: 0em;
+      }
+
+      .cls-248 {
+        letter-spacing: 0em;
+      }
+
+      .cls-249 {
+        letter-spacing: 0em;
+      }
+
+      .cls-250 {
+        letter-spacing: 0em;
+      }
+
+      .cls-251 {
+        letter-spacing: 0em;
+      }
+
+      .cls-252 {
+        letter-spacing: 0em;
+      }
+
+      .cls-253 {
+        letter-spacing: 0em;
+      }
+
+      .cls-254 {
+        letter-spacing: 0em;
+      }
+
+      .cls-255 {
+        letter-spacing: 0em;
+      }
+
+      .cls-256 {
+        letter-spacing: 0em;
+      }
+
+      .cls-257 {
+        letter-spacing: 0em;
+      }
+
+      .cls-258 {
+        letter-spacing: 0em;
+      }
+
+      .cls-259 {
+        letter-spacing: 0em;
+      }
+
+      .cls-260 {
+        letter-spacing: 0em;
+      }
+
+      .cls-261 {
+        letter-spacing: 0em;
+      }
+
+      .cls-262 {
+        letter-spacing: 0em;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="4633.95" cy="5536.38" fx="4633.95" fy="5536.38" r=".5" gradientTransform="translate(-2779259.2563 2436325.9533) scale(600 -440)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a8a4d5"/>
+      <stop offset=".55" stop-color="#a8a4d5" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#a8a4d5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="4632.4" cy="5537.6" fx="4632.4" fy="5537.6" r=".5" gradientTransform="translate(-2314990.8496 2215549.1938) scale(500 -400)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e9eb7a"/>
+      <stop offset=".55" stop-color="#e9eb7a" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#e9eb7a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="4631.59" cy="5539.09" fx="4631.59" fy="5539.09" r=".5" gradientTransform="translate(-2129573.4869 1994662.4342) scale(460 -360)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e76d40"/>
+      <stop offset=".55" stop-color="#e76d40" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#e76d40" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="4632.4" cy="5538.3" fx="4632.4" fy="5538.3" gradientTransform="translate(-2315880.8496 2106040.814) scale(500 -380)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-5" cx="4633.95" cy="5537.27" fx="4633.95" fy="5537.27" gradientTransform="translate(-2779599.2563 2271715.8837) scale(600 -410)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-6" cx="4632.01" fx="4632.01" gradientTransform="translate(-2222237.1682 1995582.4342) scale(480 -360)" xlink:href="#radial-gradient-3"/>
+    <radialGradient id="radial-gradient-7" cx="4623.12" cy="5544.02" fx="4623.12" fy="5544.02" gradientTransform="translate(-1155059.8328 1390043.8455) scale(250 -250)" xlink:href="#radial-gradient-3"/>
+    <radialGradient id="radial-gradient-8" cx="4634.2" cy="5535.45" fx="4634.2" fy="5535.45" gradientTransform="translate(-2872042.9376 2441135.9533) scale(620 -440)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-9" cx="4632.4" cy="5537.96" fx="4632.4" fy="5537.96" gradientTransform="translate(-2315170.8496 1999312.4342) scale(500 -360)" xlink:href="#radial-gradient-3"/>
+    <radialGradient id="radial-gradient-10" cx="4630.63" cy="5539.68" fx="4630.63" fy="5539.68" gradientTransform="translate(-1943586.1242 1778085.6746) scale(420 -320)" xlink:href="#radial-gradient-2"/>
+  </defs>
+  <rect class="cls-56" x="0" y="0" width="1440" height="960"/>
+  <line class="cls-10" x1="60" y1="84" x2="1380" y2="84"/>
+  <g>
+    <text class="cls-29" transform="translate(900 52)"><tspan x="0" y="0">EXPLORAR</tspan></text>
+    <text class="cls-29" transform="translate(1029.9997 52.0035)"><tspan x="0" y="0">EL CICLO</tspan></text>
+    <text class="cls-29" transform="translate(1149.9997 52.0035)"><tspan x="0" y="0">LA RED</tspan></text>
+    <text class="cls-30" transform="translate(1259.9997 52.0035)"><tspan x="0" y="0">FUENTES</tspan></text>
+  </g>
+  <ellipse class="cls-73" cx="1110" cy="320" rx="300" ry="220"/>
+  <ellipse class="cls-72" cx="1210" cy="510" rx="250" ry="200"/>
+  <ellipse class="cls-71" cx="960" cy="590" rx="230" ry="180"/>
+  <text class="cls-43" transform="translate(70 170)"><tspan class="cls-57" x="0" y="0">01 — TU CUERPO PRODUCE INFORMACI</tspan><tspan class="cls-77" x="317.83" y="0">Ó</tspan><tspan class="cls-57" x="328.78" y="0">N</tspan></text>
+  <text class="cls-32" transform="translate(70.32 520.56)"><tspan class="cls-222" x="0" y="0">L</tspan><tspan class="cls-83" x="22.28" y="0">o que sie</tspan><tspan class="cls-152" x="176.8" y="0">n</tspan><tspan class="cls-180" x="198.88" y="0">t</tspan><tspan class="cls-243" x="210.68" y="0">e</tspan><tspan class="cls-108" x="231.55" y="0">s</tspan></text>
+  <text class="cls-46" transform="translate(263.17 564.73)"><tspan class="cls-190" x="0" y="0">t</tspan><tspan x="11.48" y="0">am</tspan><tspan class="cls-222" x="64.2" y="0">b</tspan><tspan x="86.32" y="0">i</tspan><tspan class="cls-222" x="95.12" y="0">é</tspan><tspan class="cls-83" x="115.4" y="0">n im</tspan><tspan class="cls-99" x="188.24" y="0">p</tspan><tspan class="cls-108" x="210.4" y="0">o</tspan><tspan class="cls-206" x="231.36" y="0">r</tspan><tspan class="cls-185" x="245.47" y="0">t</tspan><tspan class="cls-108" x="256.95" y="0">a</tspan></text>
+  <g class="cls-38">
+    <text class="cls-53" transform="translate(75.62 616.53)"><tspan class="cls-123" x="0" y="0">H</tspan><tspan class="cls-130" x="14.32" y="0">a</tspan><tspan class="cls-108" x="24.78" y="0">y cam</tspan><tspan class="cls-92" x="77.08" y="0">b</tspan><tspan class="cls-87" x="88.56" y="0">i</tspan><tspan class="cls-247" x="93.3" y="0">o</tspan><tspan x="104.46" y="0">s que </tspan><tspan class="cls-215" x="157.04" y="0">o</tspan><tspan class="cls-147" x="168.16" y="0">c</tspan><tspan x="178.18" y="0">u</tspan><tspan class="cls-165" x="189.32" y="0">r</tspan><tspan class="cls-185" x="196.16" y="0">r</tspan><tspan x="203.04" y="0">en a</tspan><tspan class="cls-125" x="240.46" y="0">n</tspan><tspan class="cls-180" x="251.66" y="0">t</tspan><tspan class="cls-258" x="257.9" y="0">e</tspan><tspan x="268.52" y="0">s de que pu</tspan><tspan class="cls-209" x="370.57" y="0">e</tspan><tspan class="cls-130" x="381.15" y="0">d</tspan><tspan class="cls-180" x="392.45" y="0">a</tspan><tspan x="402.89" y="0">s </tspan><tspan class="cls-152" x="417.41" y="0">v</tspan><tspan x="427.01" y="0">e</tspan><tspan class="cls-198" x="437.47" y="0">r</tspan><tspan x="444.45" y="0">l</tspan><tspan class="cls-248" x="449.19" y="0">o</tspan><tspan class="cls-201" x="460.35" y="0">s</tspan><tspan x="470.09" y="0">.</tspan></text>
+    <text class="cls-53" transform="translate(75.62 650.53)"><tspan x="0" y="0">Sigue u</tspan><tspan class="cls-130" x="66" y="0">n</tspan><tspan class="cls-108" x="77.2" y="0">a </tspan><tspan class="cls-99" x="92.84" y="0">s</tspan><tspan x="102.36" y="0">e</tspan><tspan class="cls-142" x="112.82" y="0">n</tspan><tspan class="cls-233" x="124.04" y="0">s</tspan><tspan x="133.58" y="0">a</tspan><tspan class="cls-248" x="144.16" y="0">c</tspan><tspan x="154.44" y="0">ión y d</tspan><tspan class="cls-258" x="212.66" y="0">e</tspan><tspan class="cls-99" x="223.28" y="0">s</tspan><tspan class="cls-147" x="232.8" y="0">c</tspan><tspan x="242.82" y="0">ub</tspan><tspan class="cls-185" x="265.38" y="0">r</tspan><tspan x="272.26" y="0">e algu</tspan><tspan class="cls-130" x="325.58" y="0">n</tspan><tspan class="cls-173" x="336.78" y="0">a</tspan><tspan x="347.21" y="0">s </tspan><tspan class="cls-185" x="361.73" y="0">r</tspan><tspan class="cls-99" x="368.61" y="0">e</tspan><tspan class="cls-130" x="379.13" y="0">l</tspan><tspan x="383.75" y="0">a</tspan><tspan class="cls-258" x="394.33" y="0">c</tspan><tspan class="cls-79" x="404.61" y="0">ion</tspan><tspan class="cls-248" x="431.67" y="0">e</tspan><tspan x="442.29" y="0">s</tspan></text>
+    <text class="cls-53" transform="translate(75.62 684.53)"><tspan x="0" y="0">que pu</tspan><tspan class="cls-217" x="60.6" y="0">e</tspan><tspan x="71.18" y="0">den </tspan><tspan class="cls-99" x="109.44" y="0">e</tspan><tspan class="cls-258" x="119.96" y="0">x</tspan><tspan class="cls-147" x="129.18" y="0">i</tspan><tspan class="cls-152" x="133.82" y="0">st</tspan><tspan class="cls-79" x="149.5" y="0">ir d</tspan><tspan class="cls-216" x="177.76" y="0">e</tspan><tspan class="cls-185" x="188.32" y="0">t</tspan><tspan class="cls-118" x="194.54" y="0">r</tspan><tspan class="cls-180" x="201.24" y="0">á</tspan><tspan x="211.68" y="0">s de </tspan><tspan class="cls-99" x="253.14" y="0">e</tspan><tspan x="263.66" y="0">l</tspan><tspan class="cls-130" x="268.4" y="0">l</tspan><tspan x="273.02" y="0">a.</tspan></text>
+  </g>
+  <g>
+    <ellipse class="cls-15" cx="1080" cy="500" rx="310" ry="210"/>
+    <ellipse class="cls-18" cx="1080" cy="500" rx="160" ry="245" transform="translate(400.0561 1476.7683) rotate(-80)"/>
+    <ellipse class="cls-8" cx="1080" cy="500" rx="170" ry="105"/>
+    <circle class="cls-3" cx="1080" cy="500" r="52"/>
+    <circle class="cls-74" cx="1260" cy="395" r="10"/>
+  </g>
+  <text class="cls-29" transform="translate(70 855)"><tspan x="0" y="0">DESLIZA PARA ENTRAR EN LA RED ↓</tspan></text>
+  <rect class="cls-67" x="0" y="960" width="1440" height="850"/>
+  <text class="cls-27" transform="translate(68.0029 1060.002)"><tspan x="0" y="0">02 — EMPIEZA POR ALGO QUE RECONOCES</tspan></text>
+  <text class="cls-49" transform="translate(65.0029 1175.0005)"><tspan class="cls-114" x="0" y="0">¿</tspan><tspan class="cls-152" x="32.64" y="0">Q</tspan><tspan class="cls-83" x="92.72" y="0">ué </tspan><tspan class="cls-241" x="197.92" y="0">e</tspan><tspan class="cls-196" x="239.68" y="0">s</tspan><tspan x="276" y="0">t</tspan><tspan class="cls-130" x="300.16" y="0">á</tspan><tspan x="341.04" y="0">s si</tspan><tspan class="cls-156" x="452.71" y="0">n</tspan><tspan x="496.87" y="0">tiendo?</tspan></text>
+  <text class="cls-55" transform="translate(70.0029 1229.9996)"><tspan class="cls-141" x="0" y="0">N</tspan><tspan x="14.04" y="0">o n</tspan><tspan class="cls-207" x="40.05" y="0">e</tspan><tspan class="cls-223" x="50.1" y="0">c</tspan><tspan class="cls-261" x="59.81" y="0">e</tspan><tspan x="69.9" y="0">s</tspan><tspan class="cls-230" x="78.89" y="0">i</tspan><tspan x="83.47" y="0">t</tspan><tspan class="cls-178" x="89.53" y="0">a</tspan><tspan x="99.44" y="0">s </tspan><tspan class="cls-232" x="113.24" y="0">s</tspan><tspan x="122.3" y="0">a</tspan><tspan class="cls-207" x="132.35" y="0">b</tspan><tspan class="cls-107" x="143.31" y="0">er </tspan><tspan class="cls-93" x="164.75" y="0">e</tspan><tspan x="174.74" y="0">l nomb</tspan><tspan class="cls-171" x="232.18" y="0">r</tspan><tspan class="cls-107" x="238.71" y="0">e de u</tspan><tspan class="cls-127" x="289.63" y="0">n</tspan><tspan x="300.27" y="0">a ho</tspan><tspan class="cls-168" x="336.33" y="0">r</tspan><tspan class="cls-86" x="342.83" y="0">mo</tspan><tspan class="cls-127" x="369.35" y="0">n</tspan><tspan x="379.99" y="0">a pa</tspan><tspan class="cls-120" x="415.73" y="0">r</tspan><tspan x="422.1" y="0">a em</tspan><tspan class="cls-221" x="462.97" y="0">p</tspan><tspan class="cls-107" x="473.91" y="0">ezar a o</tspan><tspan class="cls-251" x="539.27" y="0">b</tspan><tspan class="cls-95" x="550.27" y="0">s</tspan><tspan class="cls-107" x="559.31" y="0">e</tspan><tspan class="cls-205" x="569.25" y="0">r</tspan><tspan class="cls-163" x="576.51" y="0">v</tspan><tspan x="585.48" y="0">ar </tspan><tspan class="cls-121" x="607.02" y="0">t</tspan><tspan x="612.83" y="0">u </tspan><tspan class="cls-141" x="628.22" y="0">c</tspan><tspan class="cls-86" x="637.74" y="0">ue</tspan><tspan class="cls-168" x="658.26" y="0">r</tspan><tspan class="cls-221" x="664.76" y="0">p</tspan><tspan class="cls-141" x="675.71" y="0">o</tspan><tspan x="686.06" y="0">.</tspan></text>
+  <ellipse class="cls-64" cx="320" cy="1485" rx="250" ry="190"/>
+  <ellipse class="cls-63" cx="770" cy="1435" rx="300" ry="205"/>
+  <ellipse class="cls-65" cx="1130" cy="1510" rx="240" ry="180"/>
+  <g class="cls-111">
+    <path class="cls-9" d="M170,1425c150-95,240,85,385-25"/>
+    <path class="cls-9" d="M555,1400c135-85,235,90,360-20"/>
+    <path class="cls-9" d="M915,1380c130-90,225,55,345-10"/>
+    <path class="cls-11" d="M250,1585c160-70,265,55,420-35"/>
+    <path class="cls-11" d="M670,1550c150-85,290,100,450,20"/>
+  </g>
+  <circle class="cls-21" cx="170" cy="1425" r="68"/>
+  <text class="cls-31" transform="translate(149.5181 1430.9993)"><tspan x="0" y="0">Dolor</tspan></text>
+  <circle class="cls-21" cx="555" cy="1400" r="88"/>
+  <text class="cls-31" transform="translate(515.5093 1405.9996)"><tspan class="cls-197" x="0" y="0">C</tspan><tspan class="cls-103" x="11.61" y="0">a</tspan><tspan class="cls-145" x="20.6" y="0">n</tspan><tspan class="cls-231" x="30.14" y="0">s</tspan><tspan class="cls-103" x="38.25" y="0">an</tspan><tspan class="cls-255" x="56.86" y="0">c</tspan><tspan x="65.6" y="0">io</tspan></text>
+  <circle class="cls-22" cx="915" cy="1380" r="62"/>
+  <text class="cls-44" transform="translate(885.0034 1385.9996)"><tspan class="cls-122" x="0" y="0">H</tspan><tspan class="cls-103" x="12.17" y="0">amb</tspan><tspan class="cls-183" x="45.25" y="0">r</tspan><tspan x="51.1" y="0">e</tspan></text>
+  <circle class="cls-21" cx="1260" cy="1370" r="76"/>
+  <text class="cls-31" transform="translate(1236.1409 1375.9996)"><tspan x="0" y="0">D</tspan><tspan class="cls-259" x="12.26" y="0">e</tspan><tspan class="cls-97" x="21.28" y="0">s</tspan><tspan class="cls-220" x="29.38" y="0">e</tspan><tspan class="cls-103" x="38.37" y="0">o</tspan></text>
+  <circle class="cls-21" cx="250" cy="1585" r="58"/>
+  <text class="cls-31" transform="translate(226.2534 1590.9996)"><tspan class="cls-186" x="0" y="0">S</tspan><tspan x="10.17" y="0">ueño</tspan></text>
+  <circle class="cls-21" cx="670" cy="1550" r="78"/>
+  <text class="cls-31" transform="translate(626.4463 1555.9996)"><tspan class="cls-157" x="0" y="0">I</tspan><tspan x="4.5" y="0">n</tspan><tspan class="cls-202" x="14.13" y="0">f</tspan><tspan class="cls-129" x="19.18" y="0">l</tspan><tspan class="cls-103" x="23.1" y="0">a</tspan><tspan class="cls-129" x="32.1" y="0">m</tspan><tspan x="46.38" y="0">a</tspan><tspan class="cls-259" x="55.37" y="0">c</tspan><tspan class="cls-103" x="64.11" y="0">ión</tspan></text>
+  <circle class="cls-21" cx="1120" cy="1570" r="82"/>
+  <text class="cls-31" transform="translate(1059.4382 1575.9996)"><tspan x="0" y="0">Dolor de ca</tspan><tspan class="cls-208" x="85.76" y="0">b</tspan><tspan class="cls-81" x="95.57" y="0">eza</tspan></text>
+  <text class="cls-48" transform="translate(70.0029 1729.9996)"><tspan class="cls-59" x="0" y="0">SE</tspan><tspan class="cls-66" x="19.72" y="0">Ñ</tspan><tspan class="cls-60" x="30.26" y="0">AL CORPORAL</tspan></text>
+  <text class="cls-34" transform="translate(1159.9997 1729.9996)"><tspan x="0" y="0">TOCA / EXPLORA →</tspan></text>
+  <rect class="cls-56" x="0" y="1814.44" width="1440" height="1529.13"/>
+  <text class="cls-43" transform="translate(68.0029 1909.9996)"><tspan class="cls-57" x="0" y="0">03 — DE LA SENSACI</tspan><tspan class="cls-77" x="170.7" y="0">Ó</tspan><tspan class="cls-57" x="181.65" y="0">N A LO INVISIBLE</tspan></text>
+  <text class="cls-42" transform="translate(65.0029 2019.9996)"><tspan class="cls-115" x="0" y="0">¿</tspan><tspan class="cls-154" x="31.01" y="0">Q</tspan><tspan class="cls-19" x="88.08" y="0">ué pu</tspan><tspan class="cls-212" x="272" y="0">e</tspan><tspan x="311.37" y="0">de </tspan><tspan class="cls-239" x="412.29" y="0">e</tspan><tspan class="cls-194" x="451.96" y="0">s</tspan><tspan x="486.47" y="0">tar p</tspan><tspan class="cls-132" x="636.34" y="0">a</tspan><tspan class="cls-234" x="675.17" y="0">s</tspan><tspan x="710.21" y="0">ando ade</tspan><tspan class="cls-154" x="1015.34" y="0">n</tspan><tspan class="cls-182" x="1057.3" y="0">tr</tspan><tspan x="1104.64" y="0">o?</tspan></text>
+  <text class="cls-25" transform="translate(95.4636 2142.0867)"><tspan class="cls-116" x="0" y="0">U</tspan><tspan class="cls-134" x="19.09" y="0">n</tspan><tspan x="34.39" y="0">a </tspan><tspan class="cls-101" x="55.75" y="0">s</tspan><tspan class="cls-104" x="68.75" y="0">e</tspan><tspan class="cls-131" x="83.04" y="0">ñ</tspan><tspan x="98.34" y="0">al pu</tspan><tspan class="cls-210" x="156.96" y="0">e</tspan><tspan x="171.41" y="0">de </tspan><tspan class="cls-188" x="208.2" y="0">r</tspan><tspan class="cls-101" x="217.6" y="0">e</tspan><tspan class="cls-131" x="231.97" y="0">l</tspan><tspan x="238.28" y="0">a</tspan><tspan class="cls-257" x="252.73" y="0">c</tspan><tspan x="266.77" y="0">io</tspan><tspan class="cls-134" x="288.27" y="0">n</tspan><tspan class="cls-82" x="303.56" y="0">ar</tspan><tspan class="cls-101" x="327.63" y="0">s</tspan><tspan class="cls-104" x="340.63" y="0">e </tspan><tspan class="cls-225" x="361.83" y="0">c</tspan><tspan x="375.79" y="0">on </tspan><tspan class="cls-160" x="0" y="32.78">v</tspan><tspan class="cls-82" x="12.89" y="32.78">a</tspan><tspan class="cls-179" x="27.34" y="32.78">r</tspan><tspan class="cls-131" x="36.77" y="32.78">i</tspan><tspan class="cls-179" x="43.08" y="32.78">a</tspan><tspan x="57.34" y="32.78">s cap</tspan><tspan class="cls-179" x="121.01" y="32.78">a</tspan><tspan x="135.27" y="32.78">s al m</tspan><tspan class="cls-143" x="206.05" y="32.78">is</tspan><tspan x="225.17" y="32.78">mo </tspan><tspan class="cls-155" x="270.21" y="32.78">t</tspan><tspan class="cls-82" x="278.82" y="32.78">iem</tspan><tspan class="cls-214" x="322.69" y="32.78">p</tspan><tspan class="cls-140" x="338.42" y="32.78">o</tspan><tspan x="353.31" y="32.78">.</tspan></text>
+  <g>
+    <ellipse class="cls-50" cx="742.71" cy="2446.23" rx="360" ry="105"/>
+    <ellipse class="cls-6" cx="718.31" cy="2447.3" rx="395" ry="130" transform="translate(-210.56 71.92) rotate(-5)"/>
+    <ellipse class="cls-45" cx="742.71" cy="2636.23" rx="285" ry="85"/>
+    <ellipse class="cls-7" cx="753.68" cy="2636.9" rx="110" ry="325" transform="translate(-1955.4157 3063.6062) rotate(-83)"/>
+    <ellipse class="cls-2" cx="742.71" cy="2821.23" rx="245" ry="78"/>
+    <ellipse class="cls-5" cx="755.93" cy="2820.31" rx="285" ry="102" transform="translate(-385.15 132.65) rotate(-8)"/>
+    <ellipse class="cls-37" cx="742.71" cy="3011.23" rx="330" ry="105"/>
+    <ellipse class="cls-6" cx="717.87" cy="3010.15" rx="135" ry="375" transform="translate(-2343.3847 3462.9352) rotate(-85)"/>
+    <path class="cls-17" d="M772.71,2346.23c-45,130,35,190-20,290-45,100,40,160-10,260-45,85,25,145-15,230"/>
+    <path class="cls-3" d="M732.71,2346.23c30,135-40,195,5,300,40,95-30,165,10,260,35,85-25,145,10,220"/>
+    <g>
+      <text class="cls-29" transform="translate(132.7153 2386.2295)"><tspan x="0" y="0">01 · CAMBIO HORMONAL</tspan></text>
+      <text class="cls-29" transform="translate(202.7143 2676.2295)"><tspan x="0" y="0">02 · ENDOMETRIO</tspan></text>
+      <text class="cls-29" transform="translate(1107.7121 2776.2295)"><tspan x="0" y="0">03 · MEDIADORES</tspan></text>
+      <text class="cls-28" transform="translate(1167.7121 3071.2295)"><tspan class="cls-59" x="0" y="0">04 · CONTRACCI</tspan><tspan class="cls-75" x="132.16" y="0">Ó</tspan><tspan class="cls-58" x="143.1" y="0">N / DOLOR</tspan></text>
+    </g>
+    <g>
+      <line class="cls-3" x1="692.71" y1="2446.23" x2="292.71" y2="2391.23"/>
+      <line class="cls-3" x1="707.71" y1="2636.23" x2="352.71" y2="2681.23"/>
+      <line class="cls-3" x1="777.71" y1="2821.23" x2="1092.71" y2="2771.23"/>
+      <line class="cls-3" x1="790.71" y1="3011.23" x2="1152.71" y2="3064.23"/>
+    </g>
+  </g>
+  <text class="cls-29" transform="translate(52.7158 2496.2295)"><tspan x="0" y="0">EJEMPLO · DOLOR MENSTRUAL</tspan></text>
+  <text class="cls-36" transform="translate(90.0547 2096.4664)"><tspan class="cls-196" x="0" y="0">N</tspan><tspan x="35.38" y="0">o </tspan><tspan class="cls-242" x="73.54" y="0">e</tspan><tspan x="98.59" y="0">s u</tspan><tspan class="cls-135" x="159.07" y="0">n</tspan><tspan x="185.47" y="0">a línea </tspan><tspan class="cls-176" x="332.63" y="0">r</tspan><tspan class="cls-211" x="348.43" y="0">e</tspan><tspan class="cls-236" x="373.29" y="0">c</tspan><tspan x="397.53" y="0">t</tspan><tspan class="cls-135" x="412.02" y="0">a</tspan><tspan x="436.55" y="0">.</tspan></text>
+  <text class="cls-47" transform="translate(52.7158 2616.2295)"><tspan class="cls-262" x="0" y="0">L</tspan><tspan x="10.24" y="0">a </tspan><tspan class="cls-100" x="24.32" y="0">v</tspan><tspan class="cls-139" x="33.08" y="0">i</tspan><tspan class="cls-167" x="37.26" y="0">s</tspan><tspan x="45.59" y="0">ual</tspan><tspan class="cls-213" x="69.41" y="0">i</tspan><tspan x="73.78" y="0">za</tspan><tspan class="cls-262" x="91.42" y="0">c</tspan><tspan x="100.67" y="0">ión </tspan><tspan class="cls-139" x="129.58" y="0">m</tspan><tspan class="cls-106" x="144.72" y="0">u</tspan><tspan class="cls-246" x="154.74" y="0">e</tspan><tspan class="cls-149" x="164.3" y="0">s</tspan><tspan class="cls-170" x="172.74" y="0">t</tspan><tspan class="cls-117" x="178.34" y="0">r</tspan><tspan x="184.37" y="0">a </tspan><tspan class="cls-174" x="198.45" y="0">r</tspan><tspan class="cls-100" x="204.64" y="0">e</tspan><tspan class="cls-136" x="214.11" y="0">l</tspan><tspan x="218.26" y="0">a</tspan><tspan class="cls-246" x="227.79" y="0">c</tspan><tspan class="cls-106" x="237.04" y="0">ion</tspan><tspan class="cls-250" x="261.39" y="0">e</tspan><tspan x="270.95" y="0">s </tspan><tspan class="cls-219" x="284.02" y="0">p</tspan><tspan class="cls-250" x="294.38" y="0">o</tspan><tspan x="304.43" y="0">sibl</tspan><tspan class="cls-246" x="331.75" y="0">e</tspan><tspan class="cls-237" x="341.31" y="0">s</tspan><tspan x="350.04" y="0">, no u</tspan><tspan class="cls-136" x="393.04" y="0">n</tspan><tspan class="cls-106" x="403.12" y="0">a c</tspan><tspan class="cls-146" x="426.3" y="0">a</tspan><tspan class="cls-169" x="435.74" y="0">u</tspan><tspan class="cls-229" x="445.64" y="0">s</tspan><tspan class="cls-106" x="454.22" y="0">a única.</tspan></text>
+  <rect class="cls-102" x="0" y="3337.87" width="1440" height="1180"/>
+  <text class="cls-29" transform="translate(68.0029 3437.8711)"><tspan x="0" y="0">04 — EL CUERPO NO CICLA SOLO</tspan></text>
+  <text class="cls-41" transform="translate(65.0029 3547.8713)"><tspan class="cls-161" x="0" y="0">N</tspan><tspan x="56.78" y="0">a</tspan><tspan class="cls-184" x="97.11" y="0">d</tspan><tspan class="cls-84" x="140.17" y="0">a </tspan><tspan class="cls-218" x="200.54" y="0">o</tspan><tspan class="cls-148" x="242.97" y="0">c</tspan><tspan x="281.11" y="0">u</tspan><tspan class="cls-158" x="323.7" y="0">r</tspan><tspan class="cls-187" x="349.12" y="0">r</tspan><tspan x="374.79" y="0">e a</tspan><tspan class="cls-148" x="475.09" y="0">i</tspan><tspan class="cls-181" x="492.25" y="0">s</tspan><tspan class="cls-192" x="527.27" y="0">l</tspan><tspan class="cls-84" x="544.28" y="0">ad</tspan><tspan class="cls-184" x="628.21" y="0">o</tspan><tspan x="669.62" y="0">.</tspan></text>
+  <text class="cls-52" transform="translate(70.0029 3607.8711)"><tspan x="0" y="0">Con</tspan><tspan class="cls-98" x="34.24" y="0">e</tspan><tspan class="cls-261" x="44.23" y="0">x</tspan><tspan x="52.99" y="0">ion</tspan><tspan class="cls-261" x="78.7" y="0">e</tspan><tspan x="88.79" y="0">s </tspan><tspan class="cls-253" x="102.58" y="0">f</tspan><tspan class="cls-141" x="108.09" y="0">i</tspan><tspan x="112.5" y="0">siol</tspan><tspan class="cls-221" x="140.94" y="0">ó</tspan><tspan x="151.5" y="0">gic</tspan><tspan class="cls-178" x="176.39" y="0">a</tspan><tspan class="cls-238" x="186.31" y="0">s</tspan><tspan x="195.53" y="0">, </tspan><tspan class="cls-221" x="204.32" y="0">p</tspan><tspan class="cls-107" x="215.27" y="0">e</tspan><tspan class="cls-177" x="225.2" y="0">r</tspan><tspan class="cls-223" x="231.74" y="0">c</tspan><tspan class="cls-107" x="241.45" y="0">ep</tspan><tspan class="cls-151" x="262.21" y="0">t</tspan><tspan class="cls-230" x="268.2" y="0">i</tspan><tspan class="cls-163" x="272.78" y="0">v</tspan><tspan class="cls-178" x="281.75" y="0">a</tspan><tspan class="cls-86" x="291.66" y="0">s y de </tspan><tspan class="cls-223" x="345" y="0">c</tspan><tspan class="cls-86" x="354.71" y="0">o</tspan><tspan class="cls-137" x="365.15" y="0">n</tspan><tspan class="cls-178" x="375.79" y="0">t</tspan><tspan class="cls-98" x="381.72" y="0">e</tspan><tspan class="cls-199" x="391.72" y="0">x</tspan><tspan class="cls-178" x="400.84" y="0">t</tspan><tspan class="cls-141" x="406.76" y="0">o</tspan><tspan x="417.12" y="0">.</tspan></text>
+  <g>
+    <circle class="cls-12" cx="720" cy="4037.87" r="430"/>
+    <circle class="cls-14" cx="720" cy="4037.87" r="325"/>
+    <circle class="cls-16" cx="720" cy="4037.87" r="215"/>
+    <circle class="cls-68" cx="720" cy="4037.87" r="125"/>
+    <circle class="cls-67" cx="720" cy="4037.87" r="62"/>
+    <text class="cls-24" transform="translate(687.7781 4033.8714)"><tspan x="0" y="0">LO QUE</tspan></text>
+    <text class="cls-23" transform="translate(688.8769 4055.8714)"><tspan x="0" y="0">SIENTO</tspan></text>
+    <line class="cls-13" x1="720" y1="4037.87" x2="720" y2="3712.87"/>
+    <circle class="cls-89" cx="720" cy="3712.87" r="53"/>
+    <text class="cls-40" transform="translate(676.6601 3717.8713)"><tspan x="0" y="0">HORMONAS</tspan></text>
+    <line class="cls-13" x1="720" y1="4037.87" x2="1012" y2="3745.87"/>
+    <circle class="cls-80" cx="1012" cy="3745.87" r="53"/>
+    <text class="cls-39" transform="translate(977.7419 3750.8714)"><tspan x="0" y="0">CEREBRO</tspan></text>
+    <line class="cls-13" x1="720" y1="4037.87" x2="1045" y2="4037.87"/>
+    <circle class="cls-1" cx="1045" cy="4037.87" r="53"/>
+    <text class="cls-35" transform="translate(1006.5361 4042.8714)"><tspan class="cls-76" x="0" y="0">Ó</tspan><tspan class="cls-61" x="10.26" y="0">RGANOS</tspan></text>
+    <line class="cls-13" x1="720" y1="4037.87" x2="1012" y2="4329.87"/>
+    <circle class="cls-89" cx="1012" cy="4329.87" r="53"/>
+    <text class="cls-39" transform="translate(972.0622 4334.8713)"><tspan x="0" y="0">PROCESOS</tspan></text>
+    <line class="cls-13" x1="720" y1="4037.87" x2="720" y2="4362.87"/>
+    <circle class="cls-80" cx="720" cy="4362.87" r="53"/>
+    <text class="cls-35" transform="translate(692.668 4367.8713)"><tspan class="cls-62" x="0" y="0">SUE</tspan><tspan class="cls-76" x="29.33" y="0">Ñ</tspan><tspan class="cls-61" x="39.22" y="0">O</tspan></text>
+    <line class="cls-13" x1="720" y1="4037.87" x2="428" y2="4329.87"/>
+    <circle class="cls-1" cx="428" cy="4329.87" r="53"/>
+    <text class="cls-35" transform="translate(391.0371 4334.8713)"><tspan class="cls-61" x="0" y="0">ENERG</tspan><tspan class="cls-76" x="49.18" y="0">Í</tspan><tspan class="cls-61" x="54.04" y="0">A</tspan></text>
+    <line class="cls-13" x1="720" y1="4037.87" x2="395" y2="4037.87"/>
+    <circle class="cls-89" cx="395" cy="4037.87" r="53"/>
+    <text class="cls-39" transform="translate(358.6977 4042.8714)"><tspan x="0" y="0">ENTORNO</tspan></text>
+    <line class="cls-13" x1="720" y1="4037.87" x2="428" y2="3745.87"/>
+    <circle class="cls-80" cx="428" cy="3745.87" r="53"/>
+    <text class="cls-39" transform="translate(386.539 3750.8714)"><tspan x="0" y="0">CONTEXTO</tspan></text>
+  </g>
+  <rect class="cls-56" x="0" y="4517.87" width="1440" height="760"/>
+  <text class="cls-43" transform="translate(68.0029 4617.8716)"><tspan class="cls-57" x="0" y="0">05 — DE INFORMACI</tspan><tspan class="cls-77" x="164.59" y="0">Ó</tspan><tspan class="cls-57" x="175.54" y="0">N A AGENCIA</tspan></text>
+  <text class="cls-41" transform="translate(65.0029 4727.8716)"><tspan class="cls-256" x="0" y="0">E</tspan><tspan x="46.49" y="0">s</tspan><tspan class="cls-144" x="82.13" y="0">c</tspan><tspan x="120.27" y="0">uc</tspan><tspan class="cls-128" x="201.39" y="0">h</tspan><tspan class="cls-84" x="244.29" y="0">a </tspan><tspan class="cls-192" x="304.66" y="0">l</tspan><tspan class="cls-84" x="321.67" y="0">a se</tspan><tspan class="cls-128" x="457.62" y="0">ñ</tspan><tspan class="cls-84" x="500.52" y="0">a</tspan><tspan class="cls-187" x="540.84" y="0">l</tspan><tspan x="557.77" y="0">.</tspan></text>
+  <text class="cls-52" transform="translate(70.0029 4787.8716)"><tspan x="0" y="0">O</tspan><tspan class="cls-249" x="14.27" y="0">b</tspan><tspan class="cls-91" x="25.27" y="0">s</tspan><tspan x="34.31" y="0">e</tspan><tspan class="cls-203" x="44.25" y="0">r</tspan><tspan class="cls-162" x="51.51" y="0">v</tspan><tspan x="60.48" y="0">ar no sign</tspan><tspan class="cls-245" x="143.05" y="0">i</tspan><tspan class="cls-252" x="147.74" y="0">f</tspan><tspan x="153.25" y="0">ica d</tspan><tspan class="cls-137" x="193.07" y="0">i</tspan><tspan x="197.46" y="0">agn</tspan><tspan class="cls-249" x="229.04" y="0">o</tspan><tspan class="cls-150" x="239.64" y="0">st</tspan><tspan x="254.54" y="0">ica</tspan><tspan class="cls-199" x="278.71" y="0">r</tspan><tspan class="cls-178" x="285.91" y="0">t</tspan><tspan class="cls-207" x="291.83" y="0">e</tspan><tspan x="301.89" y="0">. Sign</tspan><tspan class="cls-245" x="348.09" y="0">i</tspan><tspan class="cls-252" x="352.79" y="0">f</tspan><tspan x="358.29" y="0">ica </tspan><tspan class="cls-171" x="387.27" y="0">r</tspan><tspan class="cls-207" x="393.81" y="0">e</tspan><tspan class="cls-223" x="403.86" y="0">c</tspan><tspan class="cls-86" x="413.57" y="0">on</tspan><tspan class="cls-221" x="434.77" y="0">o</tspan><tspan class="cls-223" x="445.33" y="0">c</tspan><tspan class="cls-107" x="455.04" y="0">er p</tspan><tspan class="cls-178" x="487.3" y="0">a</tspan><tspan class="cls-171" x="497.22" y="0">tr</tspan><tspan x="509.67" y="0">on</tspan><tspan class="cls-251" x="530.87" y="0">e</tspan><tspan class="cls-86" x="540.96" y="0">s y </tspan><tspan class="cls-232" x="568.7" y="0">s</tspan><tspan x="577.76" y="0">a</tspan><tspan class="cls-207" x="587.81" y="0">b</tspan><tspan class="cls-107" x="598.77" y="0">er </tspan><tspan class="cls-141" x="620.21" y="0">c</tspan><tspan x="629.72" y="0">uándo </tspan><tspan class="cls-221" x="687.22" y="0">pe</tspan><tspan class="cls-107" x="708.21" y="0">dir </tspan><tspan class="cls-137" x="735.06" y="0">a</tspan><tspan class="cls-98" x="745" y="0">y</tspan><tspan x="754.19" y="0">u</tspan><tspan class="cls-127" x="764.77" y="0">d</tspan><tspan x="775.51" y="0">a.</tspan></text>
+  <rect class="cls-1" x="70" y="4897.87" width="390" height="265"/>
+  <rect class="cls-89" x="490" y="4897.87" width="390" height="265"/>
+  <rect class="cls-80" x="910" y="4897.87" width="390" height="265"/>
+  <g>
+    <text class="cls-29" transform="translate(98.0029 4942.8717)"><tspan x="0" y="0">01 · OBSERVA</tspan></text>
+    <text class="cls-32" transform="translate(98.0029 5007.8717)"><tspan class="cls-114" x="0" y="0">¿</tspan><tspan class="cls-130" x="16.32" y="0">C</tspan><tspan x="43.16" y="0">uándo apa</tspan><tspan class="cls-185" x="225.8" y="0">r</tspan><tspan class="cls-209" x="238.96" y="0">e</tspan><tspan class="cls-224" x="259.68" y="0">c</tspan><tspan class="cls-193" x="279.64" y="0">e</tspan><tspan class="cls-108" x="300" y="0">?</tspan></text>
+    <text class="cls-54" transform="translate(98.0029 5067.8715)"><tspan class="cls-149" x="0" y="0">D</tspan><tspan x="12.91" y="0">u</tspan><tspan class="cls-119" x="22.93" y="0">r</tspan><tspan x="28.96" y="0">a</tspan><tspan class="cls-262" x="38.48" y="0">c</tspan><tspan x="47.74" y="0">ión · i</tspan><tspan class="cls-133" x="89.12" y="0">n</tspan><tspan class="cls-175" x="99.2" y="0">t</tspan><tspan class="cls-88" x="104.81" y="0">e</tspan><tspan class="cls-139" x="114.23" y="0">n</tspan><tspan x="124.32" y="0">si</tspan><tspan class="cls-126" x="137.1" y="0">d</tspan><tspan x="147.27" y="0">ad · p</tspan><tspan class="cls-169" x="190.1" y="0">a</tspan><tspan class="cls-174" x="199.49" y="0">tr</tspan><tspan x="211.28" y="0">ón</tspan></text>
+    <text class="cls-29" transform="translate(518 4942.8717)"><tspan x="0" y="0">02 · RELACIONA</tspan></text>
+    <text class="cls-32" transform="translate(518 5007.8717)"><tspan class="cls-114" x="0" y="0">¿</tspan><tspan class="cls-152" x="16.32" y="0">Q</tspan><tspan class="cls-83" x="46.36" y="0">ué </tspan><tspan class="cls-130" x="98.96" y="0">má</tspan><tspan x="152.64" y="0">s </tspan><tspan class="cls-99" x="181.2" y="0">c</tspan><tspan class="cls-108" x="201.08" y="0">am</tspan><tspan class="cls-92" x="255.24" y="0">b</tspan><tspan class="cls-87" x="277.72" y="0">ió?</tspan></text>
+    <text class="cls-54" transform="translate(518 5067.8715)"><tspan class="cls-189" x="0" y="0">S</tspan><tspan x="10.76" y="0">ueño · ene</tspan><tspan class="cls-159" x="92.07" y="0">r</tspan><tspan x="98.19" y="0">g</tspan><tspan class="cls-133" x="108.39" y="0">í</tspan><tspan class="cls-109" x="112.55" y="0">a · </tspan><tspan class="cls-174" x="134.84" y="0">f</tspan><tspan class="cls-124" x="139.79" y="0">a</tspan><tspan class="cls-100" x="149.18" y="0">s</tspan><tspan x="157.75" y="0">e · </tspan><tspan class="cls-227" x="179.92" y="0">c</tspan><tspan class="cls-106" x="189.12" y="0">o</tspan><tspan class="cls-126" x="199.02" y="0">n</tspan><tspan class="cls-169" x="209.1" y="0">t</tspan><tspan class="cls-100" x="214.72" y="0">e</tspan><tspan class="cls-200" x="224.19" y="0">x</tspan><tspan class="cls-169" x="232.83" y="0">t</tspan><tspan x="238.44" y="0">o</tspan></text>
+    <text class="cls-29" transform="translate(937.9997 4942.8717)"><tspan x="0" y="0">03 · DECIDE</tspan></text>
+    <text class="cls-32" transform="translate(937.9997 5007.8717)"><tspan class="cls-114" x="0" y="0">¿</tspan><tspan class="cls-152" x="16.32" y="0">Q</tspan><tspan class="cls-83" x="46.36" y="0">ué n</tspan><tspan class="cls-217" x="121.2" y="0">e</tspan><tspan class="cls-228" x="141.92" y="0">c</tspan><tspan class="cls-239" x="161.88" y="0">e</tspan><tspan x="182.76" y="0">s</tspan><tspan class="cls-217" x="201.04" y="0">i</tspan><tspan class="cls-108" x="210.28" y="0">t</tspan><tspan class="cls-130" x="222.36" y="0">a</tspan><tspan class="cls-108" x="242.79" y="0">s?</tspan></text>
+    <text class="cls-54" transform="translate(937.9997 5067.8715)"><tspan class="cls-166" x="0" y="0">C</tspan><tspan x="12.19" y="0">ui</tspan><tspan class="cls-133" x="26.48" y="0">d</tspan><tspan x="36.65" y="0">ado · </tspan><tspan class="cls-90" x="79.11" y="0">s</tspan><tspan class="cls-244" x="87.68" y="0">e</tspan><tspan x="97.27" y="0">guimie</tspan><tspan class="cls-136" x="150.68" y="0">n</tspan><tspan class="cls-169" x="160.76" y="0">t</tspan><tspan x="166.37" y="0">o · </tspan><tspan class="cls-169" x="189.03" y="0">at</tspan><tspan x="204.04" y="0">en</tspan><tspan class="cls-246" x="223.65" y="0">c</tspan><tspan class="cls-106" x="232.9" y="0">ión</tspan></text>
+  </g>
+  <rect class="cls-67" x="0" y="5277.87" width="1440" height="530"/>
+  <ellipse class="cls-70" cx="1160" cy="5537.87" rx="310" ry="220"/>
+  <ellipse class="cls-69" cx="1030" cy="5647.87" rx="250" ry="180"/>
+  <ellipse class="cls-78" cx="1280" cy="5387.87" rx="210" ry="160"/>
+  <text class="cls-27" transform="translate(70.0029 5377.8713)"><tspan x="0" y="0">06 — CICLOS INVISIBLES</tspan></text>
+  <text class="cls-51" transform="translate(65.0029 5497.8713)"><tspan class="cls-235" x="0" y="0">S</tspan><tspan class="cls-20" x="44.4" y="0">e</tspan><tspan class="cls-153" x="82.29" y="0">n</tspan><tspan class="cls-105" x="123.13" y="0">tir tam</tspan><tspan class="cls-96" x="328.63" y="0">b</tspan><tspan x="370.21" y="0">ién </tspan><tspan class="cls-240" x="484.91" y="0">e</tspan><tspan class="cls-85" x="523.54" y="0">s</tspan></text>
+  <text class="cls-26" transform="translate(65.0029 5572.8711)"><tspan class="cls-138" x="0" y="0">r</tspan><tspan class="cls-260" x="23.83" y="0">e</tspan><tspan x="61.57" y="0">c</tspan><tspan class="cls-96" x="97.83" y="0">i</tspan><tspan class="cls-226" x="114.33" y="0">b</tspan><tspan x="155.25" y="0">ir info</tspan><tspan class="cls-172" x="329.29" y="0">r</tspan><tspan class="cls-191" x="352.97" y="0">m</tspan><tspan class="cls-195" x="411.8" y="0">a</tspan><tspan x="449.69" y="0">ción.</tspan></text>
+  <text class="cls-33" transform="translate(70.0029 5657.8711)"><tspan class="cls-112" x="0" y="0">T</tspan><tspan class="cls-108" x="9.22" y="0">u </tspan><tspan class="cls-247" x="25.42" y="0">c</tspan><tspan x="35.7" y="0">iclo no </tspan><tspan class="cls-247" x="98.74" y="0">e</tspan><tspan x="109.36" y="0">s u</tspan><tspan class="cls-130" x="135.02" y="0">n</tspan><tspan x="146.22" y="0">a p</tspan><tspan class="cls-130" x="173.26" y="0">l</tspan><tspan class="cls-79" x="177.88" y="0">a</tspan><tspan class="cls-130" x="188.46" y="0">n</tspan><tspan class="cls-152" x="199.66" y="0">t</tspan><tspan x="205.96" y="0">il</tspan><tspan class="cls-125" x="215.44" y="0">l</tspan><tspan x="220.06" y="0">a </tspan><tspan class="cls-254" x="235.7" y="0">f</tspan><tspan x="241.5" y="0">i</tspan><tspan class="cls-130" x="246.24" y="0">j</tspan><tspan x="250.86" y="0">a. </tspan><tspan class="cls-216" x="270.56" y="0">E</tspan><tspan class="cls-79" x="282.6" y="0">s u</tspan><tspan class="cls-130" x="308.25" y="0">n</tspan><tspan class="cls-79" x="319.46" y="0">a </tspan><tspan class="cls-185" x="335.09" y="0">r</tspan><tspan class="cls-215" x="341.97" y="0">e</tspan><tspan x="352.55" y="0">d de cam</tspan><tspan class="cls-94" x="433.59" y="0">b</tspan><tspan class="cls-79" x="445.07" y="0">i</tspan><tspan class="cls-258" x="449.81" y="0">o</tspan><tspan x="460.97" y="0">s que pu</tspan><tspan class="cls-215" x="536.09" y="0">e</tspan><tspan x="546.67" y="0">d</tspan><tspan class="cls-258" x="558.09" y="0">e</tspan><tspan x="568.71" y="0">s ap</tspan><tspan class="cls-185" x="605.21" y="0">r</tspan><tspan x="612.09" y="0">ender a o</tspan><tspan class="cls-248" x="694.49" y="0">b</tspan><tspan class="cls-99" x="706.07" y="0">s</tspan><tspan x="715.59" y="0">e</tspan><tspan class="cls-204" x="726.05" y="0">r</tspan><tspan class="cls-164" x="733.69" y="0">v</tspan><tspan x="743.13" y="0">a</tspan><tspan class="cls-113" x="753.71" y="0">r</tspan><tspan x="759.57" y="0">.</tspan></text>
+  <g class="cls-110">
+    <circle class="cls-9" cx="1140" cy="5547.87" r="135"/>
+    <circle class="cls-9" cx="1140" cy="5547.87" r="92"/>
+    <circle class="cls-9" cx="1140" cy="5547.87" r="50"/>
+    <path class="cls-4" d="M1140,5412.87c58.27.13,109.87,37.63,128,93"/>
+    <circle class="cls-89" cx="1268" cy="5505.87" r="8"/>
+  </g>
+  <g>
+    <path d="M348.04,386.76c-4.1,2.65-7.21,6.8-7.24,11.64l-.14,17.67c-.09,11.51-7.1,22.6-18.76,23.2-3.8.2-7.54-.28-10.75-2.32-3.11-1.98-5.19-5.21-5.19-9.02l-.02-30.36-.39-5.7c-.21-3.11-2.81-4.67-6.21-4.22,2.64-5.35,11.36-10.23,15.46-6.98,1.06.84,2.01,2.38,2.04,4.01l.12,9.42c-.49,11.1-.81,21.99-.41,33.05.12,3.33,1.2,6.45,3.59,8.58,1.57,1.41,3.83,2.04,5.74,1.1,3.64-1.79,4.52-7.2,4.51-11.54l-.03-45.08-.11-12.21c-.07-7.61,2.2-14.53,8.97-18.3,3-1.67,6.28-2.66,9.72-2.69-5.91,5.98-7.86,18.96-7.87,27.07l-.02,17.29c2.48-3.69,5.37-6.38,9.35-8.24,10.82-5.06,23.95-2.61,32.02,6.32,5.29,5.86,7.76,13.47,7.56,21.42-.35,13.88-10.43,25.92-24,28.65-4.67.94-9.31.85-13.62-.9-5.33-2.17-8.62-7.03-8.57-12.83.05-5.86,2.39-11.61,6.12-16.13,2.72-3.29,7.95-5.55,9.97-2.32.7,1.11.77,2.52.18,3.78-.41.87-1.48,1.88-2.68,2.19-8.02,2.04-11.71,10.85-8.88,18.16,1.31,3.4,4.21,5.6,7.73,6.47,5.5,1.36,11.04-.65,14.86-4.91,2.38-2.66,4.02-5.84,5.09-9.37,2.72-9,2.28-18.74-1.44-27.36-1.66-3.83-4.03-7.08-7.42-9.44-5.72-3.97-13.31-3.98-19.27-.12Z"/>
+    <path d="M162.15,426.17c.02,6.35,2.54,10.62,9.12,11.32-3.93,1.59-8,1.77-11.87.56-4.64-1.44-8.05-5.39-8.06-10.45l-.08-26.28c-.01-3.45-.5-6.66-1.81-9.76-2.69-6.36-9.81-9.03-16.07-6.05-3.28,1.56-5.88,4.14-7.59,7.46-2.33,4.52-3.93,9.53-3.94,14.71l-.02,18.9c0,4.67,2.35,8.35,6.51,11l-9.03-1.48c-4.99-.11-9.65.89-14.31,2.65-7.55,2.84-16.04,4.75-23.55,1.63-8.1-3.37-8.69-12.76-4.98-19.73l4.13-7.76c2.72-5.11,4.25-10.39,4.07-16.24-.11-3.73-.23-9.16-3.7-9.93-1.21-.27-2.48-.14-3.79-.08,2.27-4.19,6.14-7.12,10.59-7.91,3.57-.64,6.53,1.25,7.54,4.68.84,2.86.78,5.83.22,8.86-1.17,6.35-4.28,11.87-8.15,17.01l-6.58,8.75c-2.09,2.78-3.22,6.1-3.42,9.58-.23,4.02,1.48,7.48,4.79,9.76,3.36,2.32,7.59,2.84,11.69,2.08,9.11-1.69,17.73-10.28,17.79-20.07l.13-22.41c.01-2.04-.23-4.01-.67-5.91-.36-1.52-1.76-3.01-3.35-2.55l-3.08.88c2.12-4.61,6.5-7.96,11.46-8.55,3.44-.41,6.01,1.57,6.77,4.86.39,2.87.03,5.64-.04,8.91,4.43-10.78,15.26-16.94,26.72-14.46,7.31,1.58,12.4,7.53,12.42,15.11l.1,30.91Z"/>
+    <path d="M92.95,315.53c4.43,10.95,12.65,20.03,24.35,22.15,16.56,3,32.38-7.65,39.95-22.07.77,1.09.91,2.28.43,3.53-2.33,6.07-6.36,11.18-11.98,14.71-17.44,10.96-41.82,9.84-57.18-4.46-6.29-5.85-10.7-13.27-12.83-21.59-4.96-19.42,3.12-40.12,20.07-50.89,13.7-8.71,31.1-10.39,46.26-4.8,5.87,2.16,12.59,6.83,12.65,13.06.04,4.16-3.13,7.16-7.17,7.15-3.52-.01-6.24-2.63-6.17-6.25.07-3.34-.82-6.41-3.23-8.85-3.23-3.27-7.37-5.03-12.03-5.65-9.54-1.26-18.86,2.34-25.42,9.43-4.81,5.19-7.87,11.43-9.79,18.32-3.31,11.92-2.6,24.58,2.1,36.21Z"/>
+    <path d="M284.48,335.43c5.13,3.27,11.04,1.91,14.52-2.82,3.18-4.32,4.4-9.83,3.07-15.14-1.27-5.07-5.15-9.09-10.45-7.78-1.57.74-2.85,1.77-4.35,3.03,2.24-6.61,9.73-9.55,15.98-6.5,4.74,2.31,7.52,6.95,8.06,12.23.63,6.19-1.91,12.05-6.75,16.06-6.01,4.98-14.19,5.96-21.56,3.16-10.31-3.91-17.51-13.48-18.62-24.49-.63-6.28,1.14-12.23,4.65-17.43,3.79-5.62,9.21-9.53,15.53-11.99,9.51-3.69,20.03-3.44,29.1,1.27,7.85,4.08,13.59,11,15.74,19.57,2.38,9.46-.51,19.08-7.38,25.91-4.29,4.26-9.61,7.37-15.65,8.44,4.56-2.93,7.9-6.42,10.2-11.03,4.75-9.34,4.89-20.25.48-29.76-2.15-4.64-5.18-8.56-9.41-11.44-5.38-3.66-12.14-4.63-18.18-2.07-4.19,1.78-7.38,4.93-9.78,8.78-6.18,9.9-7.13,22.22-2.47,32.89,1.62,3.71,3.82,6.92,7.26,9.12Z"/>
+    <path d="M478.73,432.38c-2.82-3.47-3.69-7.79-1.9-11.77,2.5-5.54,9.17-8.26,14.74-5.97,1.82.75,3.12,2.45,3.47,3.79.55,2.14.09,4.07-1.3,5.52-1,1.04-2.6,1.54-3.88,1.29.28-1.5.14-2.59-.91-3.38-.84-.62-2.2-.67-3.2.2-3.18,2.77-1.99,8.25,1.3,11.45,5.23,5.09,13.46,5.96,19.87,2.53,6.92-3.71,8.85-12.11,4.38-18.54-1.75-2.52-4.2-4.61-7.08-5.88l-10.43-4.61c-5.49-2.42-11.41-4.6-14.48-10.12-2.36-4.24-1.55-9.28,2.03-12.59,6.5-6,19.12-6.47,27.86-5.17,4.16.62,8.68,2.66,8.71,6.69.01,2.11-1.09,4.03-3.01,5.16-1.12.66-2.57.85-3.85.42-1.08-.36-1.97-1.49-2.36-2.77-2.29-7.55-11.18-9.96-18-6.86-3.52,1.6-4.93,5.49-3.17,8.97,2.72,5.39,9.02,7.52,14.36,9.65l10.93,4.37c3.78,1.51,6.99,3.83,9.55,6.93,4.82,5.84,4.59,13.94-.56,19.51-3.33,3.61-7.62,6.11-12.45,7.48-9.99,2.82-23.79,2.08-30.61-6.29Z"/>
+    <path d="M449.51,434.34c9.74-.39,16.74-5.88,21.87-13.77.63.78.61,1.72.13,2.57-7.07,12.55-21.57,19.07-35.65,15.66-7.28-1.76-13.3-6.18-17.26-12.56-9.82-15.81-3.57-36.17,13.68-43.77,7.99-3.52,16.92-4.2,25.36-1.92,3.07.83,5.88,2.22,8.11,4.33,3.53,3.34,3.41,8.62-.08,11.92-3.89,3.66-10.83,5.68-16.32,6.84-7.84,1.65-15.59,2.64-23.6,3.37-.06,14.49,8.36,27.46,23.77,27.33ZM445.18,401.94c5.81-1.4,11.47-4.54,11.94-10.49.31-3.92-1.68-7.25-5.37-8.83-4.95-2.11-10.51-1.26-15.07,1.69-6.67,4.31-10.44,12.73-10.84,20.83,6.6-.77,12.85-1.64,19.34-3.2Z"/>
+    <path d="M254.92,433.13c-2.5-2.83-3.74-6.34-2.87-9.89,1.45-5.91,7.77-9.29,13.49-7.65,2.32.66,3.51,2.59,3.46,4.7-.05,2.21-1.8,4.2-4.09,4.2-.12-.76-.28-1.61-.55-2.03-.3-.45-1.53-.8-2.11-.66-3.46.83-4.14,6.61-.75,10.93,4.72,6.02,13.29,7.34,19.58,3.13,4.94-3.31,6.77-9.16,4.36-14.64-2.65-6.02-8.13-9.79-13.95-12.66l-10.07-4.96c-2.87-1.41-4.98-3.79-6.4-6.62-1.89-3.76-1.25-8.05,1.53-11.2,8.95-10.1,34.99-9.44,33.55.88-.3,2.16-1.88,4.12-4.2,4.74-2.48.67-4.5-.76-5.04-3.24-.61-2.8-2.15-5.49-4.83-6.71-3.51-1.59-7.67-.8-10.55,1.65-2.93,2.48-3.43,6.45-1.28,9.62,1.42,2.1,3.31,3.94,5.61,5.08l8.92,4.41c7.01,3.47,14.54,7.15,18.11,14.55,4.41,9.14-2.17,17.29-11,20.92-9.71,4-23.72,3.59-30.91-4.55Z"/>
+    <path d="M343.95,339.93c-8.09-2.61-14.14-10.13-10.3-17.2,2.44-4.49,7.85-6.68,12.69-5.25,1.89.56,3.17,2.15,3.45,3.7.35,1.94-.2,3.69-1.77,4.96-.65.53-1.95.81-2.54.6-.06-1.07-.13-1.86-.57-2.42-.37-.48-1.69-.76-2.34-.5-1.69.68-2.5,2.32-2.59,4.1-.16,3.17,1.37,5.99,3.88,8.09,5.05,4.23,12.57,4.73,18.2,1.28,5.35-3.27,7.3-9.68,4.76-15.37-2.64-5.91-8.28-8.38-13.68-11.18l-9.54-4.95c-2.3-1.19-4.11-3.04-5.54-5.16-2.67-3.97-2.22-8.93,1.08-12.39,6.52-6.84,19.11-8.34,28.16-6.21,2.33.55,4.46,1.63,5.79,3.52,1.14,1.62,1,3.64.16,5.33-.79,1.59-2.42,2.87-4.42,3s-3.42-.96-3.92-2.78c-.76-2.8-2.41-5.39-5.08-6.77-4-2.07-9.01-1.39-12.36,1.48-2.81,2.4-3.4,6.08-1.45,9.19,1.47,2.35,3.58,4.24,6.12,5.44l9.05,4.29c6.38,3.02,13.22,6.25,16.81,12.69,4.6,8.25-.57,16.35-8.7,20.46-7.8,3.94-17.02,4.75-25.36,2.06Z"/>
+    <path d="M266.75,338.48c-5.6,2.34-12.11,1.59-16.72-2.33-2.35-2-3.98-5.16-3.98-8.45l-.1-53.75-.34-10.48-.1-8.31c.6-9.78,8.3-15.57,17.42-17.36-1.47,1.79-2.51,3.27-3.32,5.15-1.77,4.96-2.94,9.91-3.33,15.2-.44,6-.53,11.7-.53,17.8l-.02,42.78c0,6.15.1,13.91,4.52,17.63,1.83,1.43,3.96,1.62,6.5,2.1Z"/>
+    <path d="M408.19,435.06c1.89,1.7,3.98,2.09,6.57,2.52-5.75,2.24-12.51,1.15-16.77-3.48-1.9-2.06-3.03-4.99-3.04-7.95l-.11-50-.54-15.95c-.35-10.22,8.06-16.38,18.08-16.9-4.54,4.29-7.08,14.85-7.22,20.72l-.45,19.05v37.01c0,5.06.31,11.27,3.47,14.96Z"/>
+    <path d="M200.76,294.36c-6.04,10.39-5.5,23.7,1.56,33.24,5.63,7.62,15.11,10.41,24,7.4,6.44-2.19,11.39-6.79,14.79-12.81.7.98.62,2.08.13,3.13-1.96,4.16-5.05,7.4-8.95,9.92-13.98,9.04-34.11,6.48-42.9-8.07-4.96-8.21-5.63-17.65-1.95-25.99,2.56-5.81,6.52-10.42,11.9-13.7,8.32-5.06,18.27-6.84,27.8-4.92,2.83.57,5.3,1.55,7.5,3.28,2.73,2.15,3.41,6.12,1.13,8.83-1.44,1.71-4,2.32-6.05,1.62-1.92-.66-3.14-2.41-3.07-4.42.12-3.15-1.61-5.68-4.63-6.83-7.9-3-16.84,1.73-21.25,9.32Z"/>
+    <path d="M251.54,437.7c-4.13,2.12-9.38,2.15-13.6-.26-3.21-1.83-5.5-5.09-5.52-8.94l-.12-31.21-.53-5.77c-.27-2.93-2.85-4.33-5.97-3.82,2.37-4.22,6.48-7.06,11.08-7.91,3.05-.56,5.57,1.14,6.27,4.13.54,2.33.6,4.77.53,7.26l-.45,15.34.02,19.96c0,3.23.81,6.17,2.79,8.63,1.42,1.42,3.06,1.9,5.48,2.58Z"/>
+    <path d="M185.09,338.44c-4.48,1.98-9.39,1.9-13.62-.18-3.55-1.74-5.66-5.06-5.65-9.08v-23.4c.01-3.25-.06-6.35-.43-9.49-.35-2.96-2.72-4.4-5.71-4.29,3.1-5.45,12.11-10.02,15.52-6.09,2.54,2.94,1.39,10.92,1.33,16.1l-.29,23.71.86,6.57c1.15,3.64,3.88,5.78,8.01,6.15Z"/>
+    <path d="M96.47,368.77c-.96,2.78-3.66,4.38-6.35,4.59-2.79.22-5.62-1.27-6.92-3.89-.96-1.94-.82-4.14.32-6.05,2.24-3.75,8.14-4.63,11.33-1.37,1.7,1.73,2.5,4.15,1.61,6.73Z"/>
+    <path d="M309.89,373.18c-3.31-.18-5.81-2.37-6.4-5.19-.64-3.1,1.09-6.12,4.04-7.38,2.26-.97,4.72-.85,6.87.5,1.75,1.11,3.2,3.28,3.06,5.73-.21,3.82-3.63,6.56-7.57,6.35Z"/>
+    <path d="M178.48,276.42c-1.6,3.31-5.49,4.62-8.77,3.39-2.9-1.09-4.6-3.89-4.21-6.85.38-2.95,2.83-5.2,5.98-5.54,2.31-.25,4.64.58,6,2.2,1.57,1.88,2.16,4.39,1,6.8Z"/>
+    <path d="M188.98,436.06l-17.31-45.68c-1.48-3.9-4.38-6.44-8.08-8.41l25.37-.02-3.39,1.89c-.84.47-1.12,2.85-.74,3.95l13.38,37.98,22.9-55.15c1.93-4.17,5.41-7.68,9.37-8.8,3.74-1.05,7.05.46,8.54,3.73,1.41,3.07.05,7.55-3.27,8.88-5,2.01-5.94-3.3-7.55-3.8-2.13-.67-5.34,2.67-6.84,5.85l-23.49,55.83-5.47,10.17c-1.6-2.34-2.42-3.82-3.41-6.43Z"/>
+  </g>
+  <path d="M96.7,65.88c.03,2.11,2.49,3.25,4.12,1.91,3.88-3.19,2.05-8.76,5.55-8.87,2.07-.07,3.49.17,4.72,1.43,1.18,1.21,1.82,2.95,1.66,4.96-.7,9.17-14.22,12.43-24.65,10.6-10-1.76-18.13-8.28-21.58-17.96-3.21-9.02-1.09-19.23,5.1-26.47,5.33-6.24,12.23-9.85,20.24-11.21,5.48-.93,11.28-.76,16,2.03,2.94,1.74,3.67,5.16,1.98,7.82-.66,12.04-8.13,21.24-12.61,32.74-.37.95-.56,2-.54,3.03ZM99.67,69.64c-2.18,1.21-4.57.31-5.95-1.05-4.46-4.37-.05-12,3.98-17.38,4.61-6.14,10.56-12.72,10.59-19.84-2.69.37-5.36-.78-5.08-3.14.33-2.78-.46-5.04-3.45-6.06-9.65-3.27-19.99,2.25-23.38,12.19-3.37,9.88-3,21.01,1.42,30.69,3.83,8.39,15.52,13.23,25.55,8.21,3.79-1.9,6.63-6.7,3.87-10.08-.36-.44-2.04-.49-2.38.07-1.21,2.05-2.84,5.1-5.16,6.39Z"/>
+</svg>

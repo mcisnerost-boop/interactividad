@@ -1,3 +1,52 @@
+@import url("https://use.typekit.net/zvk5xpm.css");
+
 :root{
-color-scheme: dark;
+color-scheme: light;;
+
+--greenbase: #354d34;
+--whitebase: #f6f3ec;
+--naranjaacento: #f16437;
+--verdeacento: #e6e878;
+--moradoextra: #aeaad9;
+--rosaextra: #fbdfd0;
+
+--font-family: "Acumin Variable Concept", sans-serif;
+--font-family0: "Acumin Variable Concept", sans-serif, wide light;
+--font-family1: "Acumin Variable Concept", sans-serif, Black;
+--font-family1.1: "Acumin Variable Concept", sans-serif, regular;
+--font-family2: "Acumin Pro", sans-serif;
+
+ --background-color: var(--whitebase);
+  --text-color: var(--greenbase);
+  --text-accent-color: var(--naranjaacento);
+
+}
+
+body{
+ background-color: var(--background-color);
+  color: var(--text-color);
+  font-family: var(--font-family);
+  text-align:left;
+}
+
+h1{
+ font-family: var (--font-family);
+    font-size: 48px;
+    color: #354d34;
+}
+
+h2{
+font-family: var(--font-family0);
+text-align: center;
+font-weight: 200; 
+}
+
+h3{
+font-family: var(--font-family1);
+text-align:left;
+}
+
+.text{
+color: var(--naranjaacento);
+font-style: italic;
 }
