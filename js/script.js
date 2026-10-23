@@ -14,7 +14,7 @@ lenguajes tipados y no tipados que son lenguajes de programación que se diferen
 console.log("Hola, Mundo!");
 
 const TOGGLE_THEME_BTN = document.getElementById("toggle-theme-btn"); 
-
 TOGGLE_THEME_BTN.addEventListener("click", function () {
-    alert("click!");
+    //alert("click!");
+    document.body.classList.toggle("dark-theme");
 });
