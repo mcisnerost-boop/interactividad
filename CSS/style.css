@@ -19,11 +19,16 @@
   --font-size-h2: 2 rem;
   --font-size-h3: 0.8 rem;
 
-  --padding-body: 30px;
+ /* --padding-body: 30px;*/
 
+padding:0;
+margin: 0;
+overflow: hidden;
 }
 
-/*{box-sizing: border-box;}*/
+/*{box-sizing: border-box;} #toggle-theme-btn{
+    fill: var(--verdeacento)
+  }*/
 
 .dark-theme {
   --color-bg: var(--greenbase);
@@ -121,7 +126,7 @@ button {
     height: auto;
   }
 
-  #home-link:hover {
+  #home-link{
     fill: var(--verdeacento)
   }
 
@@ -138,9 +143,7 @@ button {
     transition: all 0.5s ease, color 0.25s ease;
   }
 
-  #toggle-theme-btn:hover {
-    fill: var(--verdeacento)
-  }
+  
 
   h1 {
     font-family: var (--font-family);
